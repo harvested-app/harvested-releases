@@ -1,19 +1,19 @@
 {
-  "version": "v0.1.6-pre.2",
-  "pub_date": "2022-10-14T02:31:31Z",
+  "version": "v0.1.6-pre.4",
+  "pub_date": "2022-10-14T02:51:24Z",
   "notes": "",
   "platforms": {
     "darwin-x86_64": {
-      "url": "https://github.com/harvested-app/harvested-releases/releases/download/v0.1.6-pre.2/Harvested.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWTV1dHgxdmJUY01HWkZvTGpPdzBvZ1ZpRk9GTy9EcTl0TTRZbWxwdXFiQjQ4VERpaGZnakJmMGM3RURkampyOVBtdDMvbEgyUGZMcDNPbXhKcEFmYWdvVkkva2JrTkFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjY1NzA0MTQ4CWZpbGU6SGFydmVzdGVkLmFwcC50YXIuZ3oKVWZPWlFLeHgxdmV4a09POUdBdktWUWQ1WXlqNHFkMTZwTUR5QXM0OU50N0djSlFnQklac01FUmFiNlU3ZlhPUWJxOTB3b3hmc3FMUzQxUDBuSFdGRHc9PQo="
+      "url": "https://github.com/harvested-app/harvested-releases/releases/download/v0.1.6-pre.4/Harvested.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWTV1dHgxdmJUY0J3b0Y4R2tETll6S0RtbUo0NEx0TW1TbUFvNzl6bkM0N2x4SGt2QUwwVGtHZ3RsbllKSFUwcVFucWtPaU5RQmNaUWFMNE9jbGQxY29DNDI3VTd1TGc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjY1NzE1ODU0CWZpbGU6SGFydmVzdGVkLmFwcC50YXIuZ3oKVW9aNEdlWG5wdnpGdUNlNWJMR1NybzRkQVh2NmtoNDY4TlZJMStsMXdFK2hvNGJRdk9QWHhBSDQ3TlQ1VVh0bzBEZ0ZVSnZhSERTQTVSMTN3SnFYRFE9PQo="
     },
     "darwin-aarch64": {
-      "url": "https://github.com/harvested-app/harvested-releases/releases/download/v0.1.6-pre.2/Harvested.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWTV1dHgxdmJUY01HWkZvTGpPdzBvZ1ZpRk9GTy9EcTl0TTRZbWxwdXFiQjQ4VERpaGZnakJmMGM3RURkampyOVBtdDMvbEgyUGZMcDNPbXhKcEFmYWdvVkkva2JrTkFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjY1NzA0MTQ4CWZpbGU6SGFydmVzdGVkLmFwcC50YXIuZ3oKVWZPWlFLeHgxdmV4a09POUdBdktWUWQ1WXlqNHFkMTZwTUR5QXM0OU50N0djSlFnQklac01FUmFiNlU3ZlhPUWJxOTB3b3hmc3FMUzQxUDBuSFdGRHc9PQo="
+      "url": "https://github.com/harvested-app/harvested-releases/releases/download/v0.1.6-pre.4/Harvested.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWTV1dHgxdmJUY0J3b0Y4R2tETll6S0RtbUo0NEx0TW1TbUFvNzl6bkM0N2x4SGt2QUwwVGtHZ3RsbllKSFUwcVFucWtPaU5RQmNaUWFMNE9jbGQxY29DNDI3VTd1TGc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjY1NzE1ODU0CWZpbGU6SGFydmVzdGVkLmFwcC50YXIuZ3oKVW9aNEdlWG5wdnpGdUNlNWJMR1NybzRkQVh2NmtoNDY4TlZJMStsMXdFK2hvNGJRdk9QWHhBSDQ3TlQ1VVh0bzBEZ0ZVSnZhSERTQTVSMTN3SnFYRFE9PQo="
     },
     "linux-x86_64": {
-      "url": "https://github.com/harvested-app/harvested-releases/releases/download/v0.1.6-pre.2/harvested_0.1.6-pre.2_amd64.AppImage.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWTV1dHgxdmJUY0tBT2Vpc1Zibk9wd0hNbmNGVDA2WXMvM1dxaWx0UGJ4SFBDMkpTWSs4UVZsTHk1a3R5MjMwaTJyTWgrdVNxcysxdnNBVGgvN0ZCaEMreHlMNDRBL0FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjY1NzAzOTIxCWZpbGU6aGFydmVzdGVkXzAuMS42LXByZS4yX2FtZDY0LkFwcEltYWdlLnRhci5negpTenNJdHpTbXNudUIrOVBKa2RRRkhpbS8vV2hvcW5OSHczeUpsMzhsS3JqRGM1TmRLR3lnS2tsS1cvQVV4SG5OemZ4SWdweC9FOWRxb0ZiK3hQTS9DQT09Cg=="
+      "url": "https://github.com/harvested-app/harvested-releases/releases/download/v0.1.6-pre.4/harvested_0.1.6-pre.4_amd64.AppImage.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWTV1dHgxdmJUY0QxNnFOZTFoWmFwRThPbWxZeFNjclBTdkt4U2xZcVpSQVRoU3NMKy9Qai9sRnlVVHlYNEFIbnNwbTNJRGU3TFhNWE9YUTJCRkVxTXBRREpzNmpWU2dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjY1NzE1NjkyCWZpbGU6aGFydmVzdGVkXzAuMS42LXByZS40X2FtZDY0LkFwcEltYWdlLnRhci5negpERFBZWklRSjZXTEdqRkxKclI0elQyVnBqaVhUN2l1NUVnc2Y2Ni83K0VVN0xvNFd5ZWZ4ZWkwWVNPeFhGWE9rYStQZjFOaU9DVkZUM3o0YVdaMVdCdz09Cg=="
     }
   }
 }
